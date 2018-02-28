@@ -1,0 +1,8 @@
+package Constants
+
+const (
+	CONSUMER_KEY = "EEsghxcNfegAjryHUkGIYMNMj"
+	CONSUMER_SECRET = "WgxYllhm66FynBxXOy1rLwAbzIQZCNIWHJlSX7gDaeOT4BGvAi"
+	ACCESS_TOKEN = "1662875580-E6cgxzjkCoPOg1A4hg6Hbbhz1Q3k782feKsUqnh"
+	ACCESS_TOKE_SECRET = "m4uA9DvxdSVwyfsKKyELo6VyqteBwpG96sCy2AR4hX4lG"
+)
